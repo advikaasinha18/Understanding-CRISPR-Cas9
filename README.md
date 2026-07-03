@@ -1,13 +1,5 @@
 # 🧬 CRISPR-Cas9: The Molecular Scissors That Changed Biology
 
-> *A beginner's exploration of one of biotechnology's most transformative innovations.*
-
-![GitHub Repo Size](https://img.shields.io/github/repo-size/YOUR_USERNAME/CRISPR-Cas9-Educational-Guide?style=for-the-badge)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/CRISPR-Cas9-Educational-Guide?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-
----
-
 ## 📖 About the Project
 
 This repository contains an educational PowerPoint presentation on **CRISPR-Cas9**, one of the most revolutionary breakthroughs in modern biotechnology.
